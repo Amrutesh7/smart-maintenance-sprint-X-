@@ -1,0 +1,16 @@
+Student details for log in:
+
+1. 1TD24AI081
+   pass: 16079
+
+2. 1TD24AI057
+   pass: 17610
+
+3. 1BY24AI140
+   pass: 17144
+
+4. 1BY24AI014
+   pass: 17329
+
+
+
