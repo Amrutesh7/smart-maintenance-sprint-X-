@@ -8,4 +8,13 @@ Project Drive Link:  👉 [https://drive.google.com/drive/folders/1fRF8F5yCYsFFL
 
 
 
- 🌐 Live Website  👉 [https://smart-maintenance-sprint-x-1.onrender.com](https://smart-maintenance-sprint-x-1.onrender.com)
+🌐 Live Website  👉 [https://smart-maintenance-sprint-x-1.onrender.com](https://smart-maintenance-sprint-x-1.onrender.com)
+
+
+ 
+ 🔐 Demo Login Details
+
+Use the following demo credentials to try the website:
+
+- **USN:** 1BY24AI140 
+- **Password:** 17144
