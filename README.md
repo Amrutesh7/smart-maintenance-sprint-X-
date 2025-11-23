@@ -12,7 +12,7 @@ Project Drive Link:  👉 [https://drive.google.com/drive/folders/1fRF8F5yCYsFFL
 
 
  
- 🔐 Demo Login Details
+ 🔐 Demo Student Portal Details
 
 Use the following demo credentials to try the website:
 
